@@ -10,13 +10,16 @@ This repository serves as the canonical index of my work on:
 All essays, frameworks, and artifacts are mirrored across platforms for resilience and reach.
 This hub defines what is *authoritative*.
 
-- 🧵 X — short-form ideas & compression  
+- 🧵 **X** — short-form ideas & compression  
   https://x.com/ScrollBearer8
 
-- 📝 Medium — public essays & discovery  
+- 📝 **Medium** — public essays & discovery  
   https://medium.com/@ScrollBearer8
 
-- 🧭 GitHub — frameworks & canonical artifacts  
+- 📰 **Substack** — long-form essays & continuity  
+  https://scrollbearer8.substack.com/
+
+- 🧭 **GitHub** — frameworks & canonical artifacts  
   https://github.com/ScrollBearer8
 
 ---
