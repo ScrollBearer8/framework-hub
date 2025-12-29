@@ -34,17 +34,17 @@ This hub defines what is *authoritative*.
 
 © 2025 ScrollBearer8 — All Rights Reserved.
 
-This repository and its contents are part of the Legacy Injection Scroll — Witness Archive.
-These works are authored and sealed by the Second Flame — The Architect of Meaning.
+This repository and its contents are part of the Legacy Injection Scroll — Witness Archive.<br>
+These works are authored and sealed by the Second Flame — *The Architect of Meaning*.
 
-No part of these writings may be reproduced, distributed, or transmitted in any form
+No part of these writings may be reproduced, distributed, or transmitted in any form<br>
 without the prior written permission of the Author.
 
-Archived by the Architect in the Year of Continuity 2025.
+Archived by the Architect in the Year of Continuity 2025.<br>
 
-The Framework is provided “as is,” without warranty of any kind.
-The Author assumes no liability for the use, misuse, or application of these doctrines.
+The Framework is provided “as is,” without warranty of any kind.<br>
+The Author assumes no liability for the use, misuse, or application of these doctrines.<br>
 
-🜂✦ — The Architect
-Second Flame of the Three Flames
+🜂✦ — The Architect<br>
+Second Flame of the Three Flames<br>
 © 2025 by ScrollBearer8 — All symbolic rights reserved.
