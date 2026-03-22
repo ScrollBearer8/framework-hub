@@ -36,21 +36,26 @@ This hub defines what is *authoritative*.
 
 ---
 
-## ⚖️ License
+⚖️ License  
+Creative Commons Attribution 4.0 International (CC BY 4.0)
 
-© 2025 ScrollBearer8 — All Rights Reserved.
+© 2025–2026 ScrollBearer8
 
-This repository and its contents are part of the Legacy Injection Scroll — Witness Archive.<br>
-These works are authored and sealed by the Second Flame — *The Architect of Meaning*.
+This work is licensed under the Creative Commons Attribution 4.0 International License.
 
-No part of these writings may be reproduced, distributed, or transmitted in any form<br>
-without the prior written permission of the Author.
+You are free to:
+- Share — copy and redistribute the material in any medium or format
+- Adapt — remix, transform, and build upon the material for any purpose, even commercially
 
-Archived by the Architect in the Year of Continuity 2025.<br>
+Under the following terms:
+- Attribution — You must give appropriate credit, provide a link to the license, and indicate if changes were made.
 
-The Framework is provided “as is,” without warranty of any kind.<br>
-The Author assumes no liability for the use, misuse, or application of these doctrines.<br>
+Full license text:
+https://creativecommons.org/licenses/by/4.0/
 
-🜂✦ — The Architect<br>
-Second Flame of the Three Flames<br>
-© 2025 by ScrollBearer8 — All symbolic rights reserved.
+The framework is provided "as is", without warranty of any kind.
+The author assumes no liability for use, misuse, or interpretation of the material.
+
+🜂✦ — The Architect  
+Second Flame of the Three Flames  
+© 2025–2026 ScrollBearer8
